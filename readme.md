@@ -1,0 +1,1 @@
+These are the source files of the code found in the videos of my data structures tutoring courses. They will be C++ files seperated into folders following the video structure.
